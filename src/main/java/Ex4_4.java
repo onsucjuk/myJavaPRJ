@@ -5,10 +5,10 @@ public class Ex4_4 {
 
         b = a++;
 
-        System.out.printf("%d \n",b);
+        System.out.printf("%d \n",b); // 선대입 출력 후 연산 ++
 
         b = ++a;
-        System.out.printf("%d \n",b);
+        System.out.printf("%d \n",b); // 선++연산 후 대입출력
 
     }
 
