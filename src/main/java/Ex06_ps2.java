@@ -6,7 +6,7 @@ public class Ex06_ps2 {
 
         while (j < 10) {
 
-            if (j<10) {
+            if (j < 10) {
 
                 System.out.printf(" %d x %d = %d ", j, i, j * i);
 
