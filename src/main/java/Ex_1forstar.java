@@ -1,24 +1,25 @@
 public class Ex_1forstar {
     public static void main(String[] args) {
 
-        int i = 0;
+        int i ;
+        int j = 1;
 
-        for (int j = 1; j<=5;) {
+        for (i = 0 ; i<j; i++ ) {
 
-            if (i<j) {
+            System.out.print("*");
 
-                System.out.print("*");
-                i++;
 
-            } else {
+            if (i==j-1 && j<=5) {
 
                 i = 0;
                 j++;
-                System.out.println("");
+
+                System.out.println();
+
+            }
 
             }
 
         }
 
     }
-}

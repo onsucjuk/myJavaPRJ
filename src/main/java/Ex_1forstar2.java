@@ -16,6 +16,7 @@ public class Ex_1forstar2 {
 
                 System.out.println();
 
+
             }
 
         }

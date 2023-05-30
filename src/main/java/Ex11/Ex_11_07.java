@@ -20,7 +20,6 @@ class Car2 {
     public int getSpeed() { // public으로 선언해서 private speed 을 GetSpeed라는 메서드를 선언해서 speed를 리턴한다.
         return speed;
     }
-
 }
 public class Ex_11_07 {
     public static void main(String[] args){
